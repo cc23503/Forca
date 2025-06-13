@@ -1,0 +1,20 @@
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\bin\Debug\Forca21.exe.config
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\bin\Debug\Forca21.exe
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\bin\Debug\Forca21.pdb
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\obj\Debug\Forca21.csproj.AssemblyReference.cache
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\obj\Debug\Forca21.Form1.resources
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\obj\Debug\Forca21.Properties.Resources.resources
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\obj\Debug\Forca21.csproj.GenerateResource.cache
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\obj\Debug\Forca21.csproj.CoreCompileInputs.cache
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\obj\Debug\Forca21.exe
+C:\Users\lkaih\OneDrive\Área de Trabalho\Forca21\obj\Debug\Forca21.pdb
+C:\Users\u23503\Downloads\Forca21\Forca21\bin\Debug\Forca21.exe.config
+C:\Users\u23503\Downloads\Forca21\Forca21\bin\Debug\Forca21.exe
+C:\Users\u23503\Downloads\Forca21\Forca21\bin\Debug\Forca21.pdb
+C:\Users\u23503\Downloads\Forca21\Forca21\obj\Debug\Forca21.csproj.AssemblyReference.cache
+C:\Users\u23503\Downloads\Forca21\Forca21\obj\Debug\Forca21.Form1.resources
+C:\Users\u23503\Downloads\Forca21\Forca21\obj\Debug\Forca21.Properties.Resources.resources
+C:\Users\u23503\Downloads\Forca21\Forca21\obj\Debug\Forca21.csproj.GenerateResource.cache
+C:\Users\u23503\Downloads\Forca21\Forca21\obj\Debug\Forca21.csproj.CoreCompileInputs.cache
+C:\Users\u23503\Downloads\Forca21\Forca21\obj\Debug\Forca21.exe
+C:\Users\u23503\Downloads\Forca21\Forca21\obj\Debug\Forca21.pdb
